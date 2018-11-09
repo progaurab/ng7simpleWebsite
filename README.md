@@ -2,6 +2,16 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.4.
 
+In order to install the Angular CLI, In your command line, type:  `npm install -g @angular/cli`
+
+To install a new Angular 7 project: `ng new ng7simpleWebsite`
+
+It's going to present you with a couple questions before beginning:
+
+`? Would you like to add Angular routing? Yes`
+
+`? Which stylesheet format would you like to use? SCSS   [ http://sass-lang.com   ]`
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
